@@ -2,9 +2,9 @@
 
 REST API for **Glamora**, a salon appointment booking platform. Customers browse services, request appointments and pay for confirmed bookings through Stripe. The salon admin manages services, appointments, customers and payments.
 
-- **Live website:** 
-- **Client repository:** 
-- **Server repository:**
+- **Live website:** https://glamora-saloon-service.vercel.app
+- **Client repository:** https://github.com/priyaahmed007/Glamora-Saloon-Service-ClientSide.git
+- **Server repository:** https://github.com/priyaahmed007/Glamora-Saloon-Service-ServerSide.git
 
 ## Important Features
 
